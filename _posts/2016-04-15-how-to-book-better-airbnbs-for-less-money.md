@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-09T12:59:09.462Z'
+datePublished: '2016-07-09T13:13:12.683Z'
 sourcePath: _posts/2016-04-15-how-to-book-better-airbnbs-for-less-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,7 @@ author:
   - name: '@jwmcgauley'
     url: 'https://www.twitter.com/@jwmcgauley'
     avatar: {}
-dateModified: '2016-07-09T12:59:09.158Z'
+dateModified: '2016-07-09T13:13:12.574Z'
 title: 'Facebook has been redesigned for profit: and teen suicide is a consequence. '
 app_links:
   - namespace: twitter
